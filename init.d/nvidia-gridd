@@ -1,0 +1,2 @@
+-e #!/bin/sh 
+systemctl $1 nvidia-gridd
